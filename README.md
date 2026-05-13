@@ -1,2 +1,2 @@
-# Inferfencial
+# Inferencial
 Proyecto de Estadistica Inferencial
